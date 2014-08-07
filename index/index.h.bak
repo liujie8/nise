@@ -1,0 +1,15 @@
+#ifndef _INDEX
+#define _INDEX
+
+#include <map>
+
+namespace nise
+{
+	class Index
+	{
+		std::vector<std::multimap> indexs;
+	};
+};
+
+
+#endif

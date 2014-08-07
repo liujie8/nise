@@ -1,0 +1,10 @@
+--2012-09-11 16:50:36--  http://172.16.140.139/bmiddle/13/11/709cc016jw1dwsjadjbytj.jpg
+Connecting to 172.16.140.139:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10534 (10K) [image/jpeg]
+Saving to: `/tmp/image/709cc016jw1dwsjadjbytj.jpg'
+
+     0K ..........                                            100% 2.59M=0.004s
+
+2012-09-11 16:50:55 (2.59 MB/s) - `/tmp/image/709cc016jw1dwsjadjbytj.jpg' saved [10534/10534]
+

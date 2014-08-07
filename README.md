@@ -1,4 +1,4 @@
 nise
 ====
 
-a real-time near-duplicate image search engine
+a real-time large scale near-duplicate image search engine
